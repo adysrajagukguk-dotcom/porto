@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix through.adys | Mobile Portfolio",
+  "description": "Mobile-first, Polaroid-inspired interactive portfolio by through.adys exploring Brand Strategy, UI/UX Design, Digital Products, Content \u0026 Photography, and Creative Projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
